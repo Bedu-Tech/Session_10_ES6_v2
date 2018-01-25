@@ -1,0 +1,14 @@
+{
+  "name": "bedu-babel-es6",
+  "version": "1.0.0",
+  "description": "ES6",
+  "author": "Javier Diaz",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0"
+  }
+}
